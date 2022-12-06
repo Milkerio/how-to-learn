@@ -28,12 +28,11 @@
   align-self: center;
   padding-left: 64px;
   width: 730px;
-  z-index: 1;
+  z-index: 2;
   font-size: 102px;
   font-weight: 600;
   line-height: 96px;
   margin: 0;
-  z-index: 2;
 }
 .header__subtitle{
   width: 388px;
